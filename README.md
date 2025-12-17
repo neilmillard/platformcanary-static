@@ -1,0 +1,2 @@
+# platformcanary-static
+static astro
